@@ -13,8 +13,11 @@ This project is a Python-based real-time object detection system that uses the Y
 -Built using YOLOv8 from Ultralytics
 
 🛠️ Requirements
+
 -Python 3.8+
+
 -Ultralytics YOLO
+
 -OpenCV
 
 Install dependencies:
